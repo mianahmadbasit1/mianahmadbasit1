@@ -1,7 +1,7 @@
 <h1 align = "Center"> Search on Google  "Mian Ahmad Basit" </h1>
 
 <h1 align="center">Hi 👋, I'm Ahmad Basit</h1>
-<h3 align="center">A passionate Ai Multistack 3.0 developer from Pakistan.</h3>
+<h3 align="center">A passionate Ai Multistack 3.0 developer & LEAD Tech Corporate Speaker & Mentor from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianahmadbasit1&label=Profile%20views&color=0e75b6&style=flat" alt="mianahmadbasit1" /> </p>
 
