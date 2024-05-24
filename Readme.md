@@ -1,3 +1,5 @@
+<h1 align = "Center"> More Info search me in Google **Mian Ahmad Basit** </h1>
+
 <h1 align="center">Hi 👋, I'm Ahmad Basit</h1>
 <h3 align="center">A passionate Ai Multistack 3.0 developer from Pakistan.</h3>
 
@@ -7,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/@mianahmadbasit" target="blank"><img src="https://img.shields.io/twitter/follow/@mianahmadbasit?logo=twitter&style=for-the-badge" alt="@mianahmadbasit" /></a> </p>
 
-- 🌱 I’m currently learning **Metaverse AI**
+- 🌱 I’m CEO of  **p2pClouds**  & CTO **PBI & ANZ Technlogies**
 
-- 📝 I regularly write articles on [https://p2pcl;ouds.org](https://p2pclouds.org/)
+- 📝 I regularly write articles on [https://p2pclouds.org](https://p2pclouds.org/) 
 
 - 📫 How to reach me **ahmadbasit@p2pclouds.org**
 
