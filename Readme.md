@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Basit</h1>
-<h3 align="center">A passionate Multistack 3.0 developer from Pakistan.</h3>
+<h3 align="center">A passionate Ai Multistack 3.0 developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianahmadbasit1&label=Profile%20views&color=0e75b6&style=flat" alt="mianahmadbasit1" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@mianahmadbasit" target="blank"><img src="https://img.shields.io/twitter/follow/@mianahmadbasit?logo=twitter&style=for-the-badge" alt="@mianahmadbasit" /></a> </p>
 
-- 🌱 I’m currently learning **Metaverse**
+- 🌱 I’m currently learning **Metaverse AI**
 
-- 📝 I regularly write articles on [https://tepsmarketing.com/blogs](https://tepsmarketing.com/blogs)
+- 📝 I regularly write articles on [https://p2pcl;ouds.org](https://p2pclouds.org/)
 
-- 📫 How to reach me **ahmadmian088@gmail.com**
+- 📫 How to reach me **ahmadbasit@p2pclouds.org**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
